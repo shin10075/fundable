@@ -3,6 +3,8 @@
 <hr>
 <br>
 
+![FUNDABLE LOGO](FUNDABLE/WebContent/views/img/FUNDABLE-LOGO.gif)
+
 ## 이름 : FUNDABLE
 ## 설명 : 펀딩을 재밌게 할 수 있다는 (fun + fund + able) 의미를 가진 펀딩 사이트
 ## 기간 : 2023.06.20 ~ 2023.07.20
