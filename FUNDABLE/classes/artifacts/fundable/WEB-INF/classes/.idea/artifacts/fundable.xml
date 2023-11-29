@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="fundable">
+    <output-path>$PROJECT_DIR$/classes/artifacts/fundable</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="FUNDABLE/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="FUNDABLE" />
+          <element id="library" level="project" name="FUNDABLE" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
